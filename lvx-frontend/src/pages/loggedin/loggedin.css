@@ -13,6 +13,11 @@
     margin-bottom: 1.5rem;
     border-radius: 0rem 1.5rem;
 }
+#logout{
+    background-image: url("../../Images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .logout:hover {
     background-color: #850101;
