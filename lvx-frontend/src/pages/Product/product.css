@@ -1,6 +1,9 @@
+#product{
+  background-image: url('../../Images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .content2 {
-  /* background-color: #d1d1d1; */
-  background-color: whitesmoke;
   display: flex;
   justify-content: center;
   align-items: center;
