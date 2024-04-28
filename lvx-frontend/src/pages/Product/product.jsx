@@ -7,7 +7,7 @@ function Product() {
   const product = location.state;
   console.log(product);
   return (
-    <>
+    <div id="product">
       <div className="content2">
         <div className="imagearea">
         <img alt={product.itemname} src={product.image} className="image"></img>
@@ -26,7 +26,7 @@ function Product() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
